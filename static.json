@@ -1,3 +1,7 @@
 {
-  "root": "diagramas/export/"
+  "root": "diagramas/export/",
+   "logging": {
+    "access": false,
+    "error": "warn"
+  }
 }
